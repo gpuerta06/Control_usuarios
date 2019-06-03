@@ -1,6 +1,6 @@
 <h1>Control de Usuarios <h2>
   
-  Codificaremos el primer módulo de la practica Admin llamado "Usuario". También tiene la codificación de "Inicio de Sesión" elaborada en la práctica anterior.
+  Codificaremos el módulo de la practica Admin llamado "Usuario". Contiene algunas validaciones de formulario, permisologia básica de usuario por roles.
   
   Los archivos de configuración son los siguientes:
   
@@ -17,6 +17,20 @@
       Se debe definir la ruta de acuerdo al nombre de la carpeta que le colocaste a tu proyecto, es decir:
       
       define('RUTA_URL', 'http://localhost/nombredelacarpeta');
+   
+   *Usuario prederminado en la base de datos
+   
+      USUARIO ADMINISTRADOR
+      
+      Usuario: admin
+      
+      Clave: 123
+      
+      USUARIO GENERAL 
+      
+      Usuario: gpuerta
+      
+      Clave: 123
       
 <h1>Puntos a Considerar<h2>
   
